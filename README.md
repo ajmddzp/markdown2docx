@@ -27,9 +27,8 @@ python main.py
 
 - 直接双击 `dist/Md2Word.exe` 即可使用。
 
-## 打包命令（PyInstaller）
+界面：
+![alt text](3Z53WDH7@UD2@M]HRDJ[V%W.png)
 
-```bash
-pyinstaller main.py --name Md2Word --windowed --onefile --noconfirm --clean --collect-all pypandoc
-```
-
+运行结果：
+![alt text](~2`QOBX9DTYQ}752`0{@U0K.png)
