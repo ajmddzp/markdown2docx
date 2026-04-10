@@ -24,11 +24,11 @@ python main.py
 ```
 
 ## 运行方式（发行版）
-
-- 直接双击 `dist/Md2Word.exe` 即可使用。
+- 下载release版本
+- 直接双击 `dist/Md2WordToolBox.exe` 即可使用。
 
 界面：
-![alt text](3Z53WDH7@UD2@M]HRDJ[V%W.png)
+![alt text](page.png)
 
 运行结果：
-![alt text](~2`QOBX9DTYQ}752`0{@U0K.png)
+![alt text](res.png)
